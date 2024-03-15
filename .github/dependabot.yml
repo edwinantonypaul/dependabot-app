@@ -9,7 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "17:10"
+      time: "18:35"
       # Use Japan Standard Time (UTC +05:30)
       timezone: "Asia/Kolkata"
       
