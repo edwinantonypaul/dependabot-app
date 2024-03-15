@@ -7,9 +7,9 @@ version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
-    target-branch: "develop"
     schedule:
       interval: "daily"
       time: "18:35"
       # Use Japan Standard Time (UTC +05:30)
       timezone: "Asia/Kolkata"
+    target-branch: "develop"
